@@ -1,11 +1,9 @@
-# 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM..https://raw.githubusercontent.com/robocorp/robocorp/master/header.png
-)]
+[![MasterHead](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png)]
 <h1 align="center">Hi 👋, I'm Barry Anil</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src=”https://cdn.dribbble.com/users/1626229/screenshots/5058818/media/4ec490b37532795e42b68b5eeafb9c71.jpg" >
+<img align="right" alt="Coding" width="400" src=”https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png” >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barry-anil&label=Profile%20views&color=0e75b6&style=flat" alt="barry-anil" /> </p>
 
