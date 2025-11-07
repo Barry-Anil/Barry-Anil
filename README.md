@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png)]
+
 <h1 align="center">Hi 👋, I'm Barry Anil</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
