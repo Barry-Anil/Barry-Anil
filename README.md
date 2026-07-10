@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barry-anil&label=Profile%20views&color=0e75b6&style=flat" alt="barry-anil" /> </p>
 
-- 🔭 I’m currently working on **Samsurin Salestrip**
+- 🔭 I’m currently working on **Myself**
 - 🌱 I’m currently learning **Rust, React and Typescript**
 - 💬 Ask me about **react, javascript.**
 - 📫 How to reach me **barryanil1@gmail.com**
